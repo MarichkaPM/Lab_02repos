@@ -1,0 +1,3 @@
+﻿  lab_02.cpp
+main.obj : error LNK2005: _main already defined in lab_02.obj
+C:\Users\Admin\Desktop\Marichka Tanechnyk\pr_01\Debug\pr_01.exe : fatal error LNK1169: one or more multiply defined symbols found
